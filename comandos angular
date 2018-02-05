@@ -3,3 +3,5 @@ comandos
 ng new nomedoprojeto //cria pasta projeto
 
 ng serve/server //cria servidor de desenvolvimento
+
+locahost:4200 //testar
